@@ -1,0 +1,93 @@
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+
+.container{
+background-size:100%;
+height:auto;
+background-image:url(pics/background.png);
+min-width:1000px;
+}
+
+p{font-size:20px; color:#3333CC; margin-left:3%;}
+
+.here{ font-size:28px; color:#000000; font-weight:600;}
+
+.there{ color:#3333CC;}
+
+.header{ 
+height:300px; background-image:url(pics/background.png);
+background-repeat:repeat;
+background-size:100%;
+}
+
+.footer{
+background-image:url(pics/LINE.GIF);
+color:#CC0000;font-size:14px;
+text-align:center;
+}
+
+.heading{
+background-color:#FF3300;
+font-weight:bolder;
+font-size:x-large;
+color:#FFFFFF;
+margin-left:5%;
+margin-right:5%;
+}
+
+.simple{
+margin-left:5%;
+margin-right:5%;
+font-size:18px;
+font-weight:bold;
+}
+
+.ting{
+color:#666699;
+font-style:italic;
+font-size:18px;
+font-weight:bold;
+}
+
+
+.tong{ margin-left:5%;
+margin-right:5%;
+font-size:25px;
+font-style:italic; color:#3333CC;
+font-weight:550; border-style:double;
+border-width:thick;
+}
+
+.highlight{color:#000000; text-decoration:blink}
+
+.blink{text-decoration:blink; color:#FF3333; font-size:x-small}
+
+.sim{
+font-size:18px;
+color:#3333CC;
+font-weight:bold;
+}
+
+ 
+.front{
+margin-left:5%;
+margin-right:5%;
+color:#000000;
+font-size:medium;
+font-weight:bold; 
+ }
+
+.dot{
+background-image:url(pics/code.png);
+}
+
+.centr{
+font-family:"Courier New", Courier, monospace, cursive;
+font-style:italic;
+font-weight:bolder;
+font-size:x-large;
+color:#3333FF;
+}
